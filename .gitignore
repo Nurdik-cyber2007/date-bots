@@ -1,0 +1,39 @@
+# -------------------
+# Visual Studio
+# -------------------
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# -------------------
+# Python
+# -------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------
+# Virtual environment
+# -------------------
+venv/
+env/
+.env
+
+# -------------------
+# Logs
+# -------------------
+*.log
+
+# -------------------
+# OS files
+# -------------------
+.DS_Store
+Thumbs.db
+
+# -------------------
+# Other temporary files
+# -------------------
+*.swp
+*.tmp
