@@ -1,5 +1,8 @@
-aiogram==3.2.0
+aiogram==3.3.0
 aiohttp==3.9.0
 aiofiles==23.2.1
-pydantic==2.3.1  # последняя совместимая с aiogram 3.2.0
-typing-extensions>=4.7.1
+pydantic==2.11.8
+typing-extensions>=4.12.2
+certifi>=2023.7.22
+magic-filter==1.0.12
+annotated-types==0.7.0
